@@ -2,7 +2,7 @@
 
 # 🎯 Bem vindo ao meu perfil! Tudo tranquilo?!
   <div id="badges">
-  <a href="https://github.com/risoflorais](https://www.linkedin.com/in/matheus-ramos-744aa8170">
+  <a href="https://www.linkedin.com/in/matheus-ramos-744aa8170">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div><br>
