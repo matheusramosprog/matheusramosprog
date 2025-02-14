@@ -11,13 +11,16 @@ Computer Scientist! <br>
 A place to record my study systems and projects.
 
 - 🧑‍💻 Developer FullStack;
-- 🤖 Entusiasta da robótica;
-- 💪 Treinando todos os dias;
-- 🎧 Não paro de escutar música;
+- 🤖 Robotics engineering;
+- 💪 Training every day;
+- 🎧 I can't stop listening to music;
 <br>
-
+g
 <div>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/django/django-plain.svg" title="djang" alt="djang" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.sv" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="react" alt="react" width="40" height="40"/>&nbsp;
