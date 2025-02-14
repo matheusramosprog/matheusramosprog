@@ -17,7 +17,7 @@ A place to record my study systems and projects.
 <br>
 g
 <div>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/django/django-plain.svg" title="djang" alt="djang" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.sv" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
