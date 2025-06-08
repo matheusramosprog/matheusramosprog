@@ -37,5 +37,4 @@ A place to record my study systems and projects.
 
 <div align = "left">
 <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusramosprog&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=matheusramosprog&show_icons=true&show_icons=true&theme=bear&count_private=true" />
 </div>
