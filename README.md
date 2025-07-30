@@ -10,9 +10,9 @@
 Computer Scientist <br>
 Here you will find some of my projects.
 
-- 🧑‍💻 Development & Infrastructure;
+- 🧑‍💻 Software Engineer & Infrastructure;
 - 🔒 Cybersecurity;
-- 💪 Training every day;
+- 💪 Always Exercise;
 <br>
 
 <div>
@@ -29,10 +29,4 @@ Here you will find some of my projects.
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="android" alt="android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-</div>
-
----
-
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusramosprog&show_icons=true&theme=bear&count_private=true"/>
 </div>
